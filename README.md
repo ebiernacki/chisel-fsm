@@ -1,6 +1,6 @@
 # Chisel Finite State Machine Repository
 
-This assignment has XXXX modules for you to complete.
+This assignment has 3 modules for you to complete.
 
 - Sequence010
     - Build a FSM to detect the sequence of bits: 010. The current bit comes in on io.nextBit and change every rising edge. The module should output 1 to io.status when the sequence is seen, and 0 otherwise, along with the current state on io.state
